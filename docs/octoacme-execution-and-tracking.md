@@ -2,6 +2,7 @@
 
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
+Some changes here and there.
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
